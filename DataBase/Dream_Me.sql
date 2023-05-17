@@ -101,7 +101,7 @@ INSERT INTO `cliente` (`NIT`, `Nombre`, `NombreCompleto`, `Apellido`, `Clave`, `
 -- --------------------------------------------------------
 
 --
--- Estructura de tabla para la tabla `cuentabanco`
+-- Estructura para la tabla `cuentabanco`
 --
 
 CREATE TABLE `cuentabanco` (
@@ -304,7 +304,7 @@ ALTER TABLE `venta`
   ADD KEY `NIT_2` (`NIT`);
 
 --
--- AUTO_INCREMENT de las tablas volcadas
+-- AUTO_INCREMENT de las tablas volcadas()
 --
 
 --
